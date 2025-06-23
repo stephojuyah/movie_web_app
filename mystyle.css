@@ -70,7 +70,7 @@ ul li {
 i {
     position:absolute; 
     right: 17px; 
-    top:27.7%; 
+    top:29.4%; 
     transform:translateY(-50%); 
     color:#888;
 }
@@ -125,6 +125,32 @@ p {
     margin-bottom: 50px;
 }
 
+.shift {
+    float: right;
+    cursor: pointer;
+    font-size: 30px;
+}
+
 .small {
+    font-size: 12px;
+}
+
+.mum {
+    margin-right: 7px;
+}
+
+button {
+    border: none;
+    background-color: rgb(20, 71, 255);
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(14, 43, 146);
+}
+
+.digo {
+    float: right;
     font-size: 12px;
 }
