@@ -200,6 +200,10 @@ button:hover {
     font-size: smaller;
 }
 
+.left:hover {
+    color: darkgrey;
+}
+
 /* .idea {
     text-align: center;
 } */
@@ -214,5 +218,5 @@ button:hover {
     display: flex;
     /* font-size: 1.9em; */
     
-  }
-} */
+  /* }
+} */ 
