@@ -205,7 +205,7 @@ button:hover {
 } */
 
 
-@media (max-width: 1202px), (min-width: 1441px) {
+/* @media (max-width: 1202px), (min-width: 1441px) {
   #body {
     display: none;
   }
@@ -215,4 +215,4 @@ button:hover {
     /* font-size: 1.9em; */
     
   }
-}
+} */
