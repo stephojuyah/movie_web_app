@@ -218,7 +218,6 @@ button:hover {
     }
     .navbar1 {
         padding: 3px;
-        background-color: rgba(165, 42, 42, 0.447);
     }
 
     .navbar2 {
@@ -226,16 +225,15 @@ button:hover {
     }
 
     .box { 
-        width: 90px;
-        height: 170px;
-        /* border: 3px white solid; */
+        width: 100px;
+        height: 180px;
         margin-bottom: 13px;
 
     }
 
     img {
-        width: 90px;
-        height: 130px; 
+        width: 100px;
+        height: 140px; 
         margin-bottom: 0px;
     }
 
@@ -278,6 +276,46 @@ button:hover {
 
     .small {
         font-size: 6px;
+    }
+
+    nav a {
+        font-size: 8px;
+        padding: 6px;
+    }
+
+    .search {
+        float: none;
+        margin: 20px 20px 20px 30px;
+        
+    }
+
+    i {
+        position:absolute; 
+        right: 45px; 
+        top:64px; 
+    }
+
+    h2 {
+        font-size: 15px;
+    }
+
+    .shift {
+        font-size: 20px;
+        position: absolute;
+        right: 6%;
+        top: 18%;
+    }
+
+    .digo {
+        font-size: 10px;
+    }
+
+    button {
+        font-size: 10px;
+    }
+
+    .sub {
+        font-size: 13px;
     }
 
 
